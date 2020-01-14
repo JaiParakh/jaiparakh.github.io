@@ -1,4 +1,5 @@
-body{
+body, html{
+    width: 100%;
     margin: 0;
     font-family: Consolas, monaco, monospace;
     /*overflow: hidden !important;*/
